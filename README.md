@@ -8,6 +8,6 @@ Shared graphics for jruk8 projects. Code repos link here instead of bundling med
 
 ## License
 
-- All graphics are the exclusive property of jruk (see LICENSE-MEDIA).
-- You may view them in our readmes, docs, and sites.
-- Anything else (copy, modify, share) needs prior written permission.
+- Graphics are licensed under CC BY 4.0 (see LICENSE).
+- You may share and adapt them, even commercially.
+- Give credit to jruk with a link to this repo.
